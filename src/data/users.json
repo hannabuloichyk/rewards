@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "userId": "96c38aab-4500-414b-a0d2-893779801780",
+      "name": "Adam Brown",
+      "email": "adambrown@gmail.com",
+      "avatarUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fmagazyak%2F&psig=AOvVaw1of7f1cWDsgqTUfQXb2i4D&ust=1645886973095000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJje8PSMm_YCFQAAAAAdAAAAABAD"
+    },
+    {
+      "userId": "01c28bef-865f-4348-bb61-41868077d8ea",
+      "name": "David Greene",
+      "email": "david.greene@gmail.com"
+    }
+  ]
+}
